@@ -66,10 +66,10 @@ where $\tau$ is the shear strength, $\varepsilon_v^p$, and $\varepsilon_d^p$ are
 	- The equivalent fluid approximation using constant parameters does not capture the run-out response accurately.
 
 
-![Relation between $I_L$ and Su]()
+![Relation between $I_L$ and Su](https://raw.githubusercontent.com/kks32-docs/notes/main/submarine-slides/numerical-analysis-submarine-critical-state/liquidity-index-su.png)
 > Relation between $I_L$ and Su
 
 ![Modeling of phase transition due to water entrain-
-ment]()
+ment](https://raw.githubusercontent.com/kks32-docs/notes/main/submarine-slides/submarine-phase-transition-critical-state.png)
 > Modeling of phase transition due to water entrainment
 
