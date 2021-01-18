@@ -20,7 +20,7 @@
 - What is the proportion of water entrainment at the bottom vs. the rest of the sediments?
 
 
-## Questions to consider
+### Questions to consider
 
 - How can the critical state be modified to accommodate higher water contents? 
 > Can we use similarities with liquefaction to study this behavior?
@@ -39,7 +39,7 @@
 
 - Shear strength and viscosity change with water entrainment and run-out. What is the relationship?
 
-## Main findings
+### Main findings
 
 - Non-newtonian fluid models do not accommodate for the transition in material properties by assuming constant rheological parameters throughout the flow.
 - Rheological flow models approximate the regime changes (solid to fluid-like) over the spatial and temporal domains and do not capture the real mechanics. 
