@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "11e25a48db945af3",
+    "type": "split",
+    "children": [
+      {
+        "id": "321f7e073dfb65c3",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "submarine-slides/numerical-analysis-submarine-critical-state/numerical_analysis_submarine_debris_critical_state.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5e07a38fbc03845",
+    "type": "split",
+    "children": [
+      {
+        "id": "41c6b1b9748813b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7ab29ce33e9204b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ead7ee4ee29c13c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adf74e563c2e4707",
+    "type": "split",
+    "children": [
+      {
+        "id": "a938d62c67aee99d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee13ea54b8dd8083",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "submarine-slides/numerical-analysis-submarine-critical-state/numerical_analysis_submarine_debris_critical_state.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "submarine-slides/numerical-analysis-submarine-critical-state/numerical_analysis_submarine_debris_critical_state.md",
+    "_sidebar.md",
+    "submarine-slides/numerical_analysis_submarine_debris_critical_state.md",
+    "README.md"
+  ]
+}
