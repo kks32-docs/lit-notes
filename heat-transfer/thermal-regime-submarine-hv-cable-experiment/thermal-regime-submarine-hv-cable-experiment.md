@@ -17,8 +17,8 @@
 -   What are the thermal regimes and heat transfer mechanisms?
 > Conduction and convection
 
-### Questions to consider
--   Plot dT/dt evolution with time. 
+### Future research / unanswered questions
+-   Plot dT/dt evolution with time to show the evolution towards steady-state
     
 -   Turn-off convection in the process and compare the profiles between conduction and convection - numerically.
 

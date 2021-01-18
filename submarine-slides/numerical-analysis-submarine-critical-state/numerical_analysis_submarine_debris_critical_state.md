@@ -3,7 +3,7 @@
 
 [Paper](https://search.proquest.com/docview/2115978348)
 
-> Keywords: #submarine #water_entrainment #bingham 
+> Keywords: #submarine #water-entrainment #bingham #cam-clay
 
 ### Research questions
 
@@ -20,7 +20,7 @@
 - What is the proportion of water entrainment at the bottom vs. the rest of the sediments?
 
 
-### Questions to consider
+### Future research / unanswered questions
 
 - How can the critical state be modified to accommodate higher water contents? 
 > Can we use similarities with liquefaction to study this behavior?

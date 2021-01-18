@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_sidebar.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,14 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "heat-transfer/thermal-properties-seabed-subsea-flowlines.md",
+    "_sidebar.md",
+    "README.md",
     "heat-transfer/thermal-regime-submarine-hv-cable-experiment/thermal-regime-submarine-hv-cable-experiment.md",
+    "heat-transfer/thermal-properties-hv-cables-numerical/thermal-properties-hv-cables-numerical.md",
     "submarine-slides/numerical-analysis-submarine-critical-state/numerical_analysis_submarine_debris_critical_state.md",
+    "thermal-properties-hv-cables-numerical.md",
+    "heat-transfer/thermal-properties-seabed-subsea-flowlines.md",
     "thermal-regime-submarine-hv-cable-experiment.md",
     "Untitled.md",
-    "_sidebar.md",
-    "submarine-slides/numerical-analysis-submarine-critical-state/submarine-phase-transition-critical-state.png",
-    "submarine-slides/numerical_analysis_submarine_debris_critical_state.md",
-    "README.md"
+    "submarine-slides/numerical-analysis-submarine-critical-state/submarine-phase-transition-critical-state.png"
   ]
 }
