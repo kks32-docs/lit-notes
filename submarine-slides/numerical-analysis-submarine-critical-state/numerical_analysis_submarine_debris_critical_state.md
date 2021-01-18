@@ -69,7 +69,8 @@ where $\tau$ is the shear strength, $\varepsilon_v^p$, and $\varepsilon_d^p$ are
 ![Relation between $I_L$ and Su](https://raw.githubusercontent.com/kks32-docs/notes/main/submarine-slides/numerical-analysis-submarine-critical-state/liquidity-index-su.png)
 > Relation between $I_L$ and Su
 
+
 ![Modeling of phase transition due to water entrain-
-ment](https://raw.githubusercontent.com/kks32-docs/notes/main/submarine-slides/submarine-phase-transition-critical-state.png)
+ment](https://raw.githubusercontent.com/kks32-docs/notes/main/submarine-slides/numerical-analysis-submarine-critical-state/submarine-phase-transition-critical-state.png)
 > Modeling of phase transition due to water entrainment
 
