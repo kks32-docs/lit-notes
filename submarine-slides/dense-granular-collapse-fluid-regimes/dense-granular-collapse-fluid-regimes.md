@@ -73,5 +73,5 @@
 ![Temporal evolution of flow in different regimes](https://raw.githubusercontent.com/kks32-docs/notes/main/submarine-slides/dense-granular-collapse-fluid-regimes/regime-flow-evolution.png)
 > Temporal evolution of flow in different regimes
 
-![Granular flow regimes](https://raw.githubusercontent.com/kks32-docs/notes/main/submarine-slides/dense-granular-collapse-fluid-regimes/granular-fluid-regimes.png)
+![Granular flow regimes](https://raw.githubusercontent.com/kks32-docs/notes/main/submarine-slides/dense-granular-collapse-fluid-regimes/granular-flow-regimes.png)
 > Granular flow regimes
