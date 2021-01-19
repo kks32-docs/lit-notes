@@ -6,8 +6,6 @@
 
 > Keywords: #dense #submarine #granular-flow-regimes 
 
-**
-
 ### Research questions
 
 -   Can we characterize the flow regimes of dense granular flows in fluid?
