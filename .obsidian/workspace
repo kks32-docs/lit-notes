@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "submarine-slides/dense-granular-collapse-fluid-regimes/dense-granular-collapse-fluid-regimes.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "submarine-slides/dense-granular-collapse-fluid-regimes/dense-granular-collapse-fluid-regimes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "submarine-slides/dense-granular-collapse-fluid-regimes/dense-granular-collapse-fluid-regimes.md",
+    "submarine-slides/granular-avalanches-fluid/granular-avalanches-fluid.md",
+    "submarine-slides/Untitled.md",
     "README.md",
     "_sidebar.md",
     "submarine-slides/collapse-liquid-saturated-column.md",
-    "submarine-slides/Untitled.md",
-    "submarine-slides/granular-avalanches-fluid/granular-avalanches-fluid.md",
     "submarine-slides/numerical-analysis-submarine-critical-state/numerical_analysis_submarine_debris_critical_state.md",
     "Untitled.md",
     "heat-transfer/thermal-properties-hv-cables-numerical/thermal-properties-hv-cables-numerical.md",
-    "heat-transfer/thermal-properties-seabed-subsea-flowlines.md",
-    "heat-transfer/thermal-regime-submarine-hv-cable-experiment/thermal-regime-submarine-hv-cable-experiment.md"
+    "heat-transfer/thermal-properties-seabed-subsea-flowlines.md"
   ]
 }
