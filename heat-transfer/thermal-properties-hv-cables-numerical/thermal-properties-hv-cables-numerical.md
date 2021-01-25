@@ -59,8 +59,8 @@
     
 -   IEC60287 standards for terrestrial burials and depend on backfill soil properties and only use conduction mode for heat transfer.
 
-![Effect of burial depth](https://raw.githubusercontent.com/kks32-docs/notes/main/heat-transfer/thermal-properties-hv-cables-numerical/conduction-convection-burial.png)
+![Effect of burial depth](conduction-convection-burial.png)
 
 > Dependence of the conductor temperature on cable burial depth. In each case, the solid phase thermal conductivity is 1 $\frac{W}{m\cdot K }$
 
-![Conduction vs. Convection](https://raw.githubusercontent.com/kks32-docs/notes/main/heat-transfer/thermal-properties-hv-cables-numerical/conduction-convection.png)
+![Conduction vs. Convection](conduction-convection.png)

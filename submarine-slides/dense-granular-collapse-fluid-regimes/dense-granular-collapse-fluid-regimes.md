@@ -14,7 +14,7 @@
 ### Future research / unanswered questions
 
 -   What is the role of initial volume on the run-out scaling?
-    
+     
 -   The role of surrounding fluid in granular collapse, and more particularly the transition from viscous-dominated flow to a dry configuration remains uncertain.
     
 -   Non-dimensional numbers $St$ and $r$ ignore the effect of packing and drag forces and assumes force is for a grain traveling vertically down.
