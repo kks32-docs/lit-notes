@@ -64,4 +64,4 @@ Carslaw & Jaeger (1959) defined steady-state conduction to have an approximately
 
 Emeena et al plotted a histogram of std deviation of temp radially and uses an arbitrary critical value of 0.06 to identify convective boundary and this is the average std dev at 19$^\circ$ C.
 
-![conduction-convection regime](https://raw.githubusercontent.com/kks32-docs/notes/main/heat-transfer/thermal-properties-seabed-subsea-flowlines/conduction-convection.png)
+![conduction-convection regime](conduction-convection.png)
