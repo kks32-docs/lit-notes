@@ -6,12 +6,11 @@
       {
         "id": "321f7e073dfb65c3",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "deep-learning/learning-to-simulate/learning-to-simulate.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep-learning/learning-to-simulate/learning-to-simulate.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "321f7e073dfb65c3",
   "lastOpenFiles": [
+    "README.md",
+    "heat-transfer/combined-conduction-natural-convection-cooling-of-offshore-power-cables-in-porous-sea-soil/combined-conduction-natural-convection-cooling-of-offshore-power-cables-in-porous-sea-soil.md",
+    "heat-transfer/thermal-properties-hv-cables-numerical/thermal-properties-hv-cables-numerical.md",
+    "heat-transfer/thermal-properties-hv-cables-numerical/conduction-convection-burial.png",
+    "heat-transfer/thermal-properties-hv-cables-numerical/conduction-convection.png",
+    "heat-transfer/combined-conduction-natural-convection-cooling-of-offshore-power-cables-in-porous-sea-soil/Untitled.md",
     "deep-learning/learning-to-simulate/learning-to-simulate.md",
     "_sidebar.md",
-    "README.md",
     "submarine-slides/dense-granular-collapse-fluid-regimes/dense-granular-collapse-fluid-regimes.md",
-    "deep-learning/learning-to-simulate/Untitled.md",
-    "Untitled.md",
-    "submarine-slides/submarine-granular-flows-down-inclined-planes/submarine-granular-flows-down-inclined-planes.md",
-    "submarine-slides/collapse-liquid-saturated-column.md",
-    "submarine-slides/numerical-analysis-submarine-critical-state/numerical_analysis_submarine_debris_critical_state.md",
-    "submarine-slides/granular-avalanches-fluid/granular-avalanches-fluid.md"
+    "deep-learning/learning-to-simulate/Untitled.md"
   ]
 }

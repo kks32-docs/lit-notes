@@ -6,6 +6,7 @@
 	* [Sanchez-Gonzalez et al (2020) Learning to Simulate Complex Physics with Graph Networks](deep-learning/learning-to-simulate/learning-to-simulate.md)
 	
 * Heat transfer
+	* [Combined Conduction and Natural Convection Cooling of Offshore Power Cables in Porous Sea Soil](heat-transfer/combined-conduction-natural-convection-cooling-of-offshore-power-cables-in-porous-sea-soil/combined-conduction-natural-convection-cooling-of-offshore-power-cables-in-porous-sea-soil.md)
 	* [Effect of Sediment Properties on the Thermal Performance of Submarine HV Cables](heat-transfer/thermal-properties-hv-cables-numerical/thermal-properties-hv-cables-numerical.md)
 	* [The thermal regime around buried submarine high-voltage cables](heat-transfer/thermal-regime-submarine-hv-cable-experiment/thermal-regime-submarine-hv-cable-experiment.md)
 	* [Utilizing thermal properties of seabed soils as cost-effective insulation for subsea flowlines](heat-transfer/thermal-properties-seabed-subsea-flowlines.md)
