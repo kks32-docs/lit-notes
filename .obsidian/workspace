@@ -9,9 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "macropores/macropores.md",
             "mode": "source"
           }
+        }
+      },
+      {
+        "id": "1885749a39a60832",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "du Pont",
+                "query": "#dense",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "macropores/macropores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +96,15 @@
   },
   "active": "321f7e073dfb65c3",
   "lastOpenFiles": [
-    "README.md",
+    "macropores/macropores.md",
+    "heat-transfer/Untitled.md",
+    "Untitled.md",
+    "unsaturated/Untitled.md",
     "heat-transfer/combined-conduction-natural-convection-cooling-of-offshore-power-cables-in-porous-sea-soil/combined-conduction-natural-convection-cooling-of-offshore-power-cables-in-porous-sea-soil.md",
+    "_sidebar.md",
+    "README.md",
     "heat-transfer/thermal-properties-hv-cables-numerical/thermal-properties-hv-cables-numerical.md",
     "heat-transfer/thermal-properties-hv-cables-numerical/conduction-convection-burial.png",
-    "heat-transfer/thermal-properties-hv-cables-numerical/conduction-convection.png",
-    "heat-transfer/combined-conduction-natural-convection-cooling-of-offshore-power-cables-in-porous-sea-soil/Untitled.md",
-    "deep-learning/learning-to-simulate/learning-to-simulate.md",
-    "_sidebar.md",
-    "submarine-slides/dense-granular-collapse-fluid-regimes/dense-granular-collapse-fluid-regimes.md",
-    "deep-learning/learning-to-simulate/Untitled.md"
+    "heat-transfer/thermal-properties-hv-cables-numerical/conduction-convection.png"
   ]
 }
