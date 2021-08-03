@@ -7,18 +7,7 @@
         "id": "321f7e073dfb65c3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "macropores/macropores.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1885749a39a60832",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -76,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macropores/macropores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,12 +85,12 @@
   "active": "321f7e073dfb65c3",
   "lastOpenFiles": [
     "macropores/macropores.md",
+    "README.md",
     "heat-transfer/Untitled.md",
     "Untitled.md",
     "unsaturated/Untitled.md",
     "heat-transfer/combined-conduction-natural-convection-cooling-of-offshore-power-cables-in-porous-sea-soil/combined-conduction-natural-convection-cooling-of-offshore-power-cables-in-porous-sea-soil.md",
     "_sidebar.md",
-    "README.md",
     "heat-transfer/thermal-properties-hv-cables-numerical/thermal-properties-hv-cables-numerical.md",
     "heat-transfer/thermal-properties-hv-cables-numerical/conduction-convection-burial.png",
     "heat-transfer/thermal-properties-hv-cables-numerical/conduction-convection.png"
