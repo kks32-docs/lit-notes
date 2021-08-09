@@ -1,4 +1,4 @@
-# [Notes from papers](https://kks32.github.io/notes/)
+# [Notes from papers](https://kks32-docs.github.io/lit-notes/)
 
 > Krishna Kumar
 

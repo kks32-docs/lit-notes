@@ -7,8 +7,11 @@
         "id": "321f7e073dfb65c3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "heat-transfer/thermal-regime-submarine-hv-cable-experiment/thermal-regime-submarine-hv-cable-experiment.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,13 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "heat-transfer/thermal-regime-submarine-hv-cable-experiment/thermal-regime-submarine-hv-cable-experiment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -79,20 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "321f7e073dfb65c3",
   "lastOpenFiles": [
+    "heat-transfer/thermal-regime-submarine-hv-cable-experiment/thermal-regime-submarine-hv-cable-experiment.md",
+    "submarine-slides/granular-avalanches-fluid/granular-avalanches-fluid.md",
+    "heat-transfer/combined-conduction-natural-convection-cooling-of-offshore-power-cables-in-porous-sea-soil/combined-conduction-natural-convection-cooling-of-offshore-power-cables-in-porous-sea-soil.md",
     "macropores/macropores.md",
     "README.md",
     "heat-transfer/Untitled.md",
     "Untitled.md",
     "unsaturated/Untitled.md",
-    "heat-transfer/combined-conduction-natural-convection-cooling-of-offshore-power-cables-in-porous-sea-soil/combined-conduction-natural-convection-cooling-of-offshore-power-cables-in-porous-sea-soil.md",
     "_sidebar.md",
-    "heat-transfer/thermal-properties-hv-cables-numerical/thermal-properties-hv-cables-numerical.md",
-    "heat-transfer/thermal-properties-hv-cables-numerical/conduction-convection-burial.png",
-    "heat-transfer/thermal-properties-hv-cables-numerical/conduction-convection.png"
+    "heat-transfer/thermal-properties-hv-cables-numerical/thermal-properties-hv-cables-numerical.md"
   ]
 }
